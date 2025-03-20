@@ -1,2 +1,4 @@
 # IPE Data Analysis
-Data analysis project to determine the major motivating factors for students to study abroad
+This is a project I took on during my time as a peer advisor at the IPE (international programs in engineering) office as a peer advisor at UMich. With this data analysis project, I took unsanitized excel sheets from study abroad program pre-arrival surveys to determine the major motivating factors for students to study abroad. This informed marketing approaches for the IPE office.
+
+Resultant plots found in the Plots folder. Unsanitized data found in the Data folder. The analysis, completed using Python Pandas in a Jupyter notebook, is in main_analysis.ipynb.
